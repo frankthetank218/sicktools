@@ -1,0 +1,2 @@
+python-cymruwhois
+#ipresolved
